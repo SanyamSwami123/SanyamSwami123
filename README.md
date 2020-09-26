@@ -1,5 +1,5 @@
 ### Hi there 👋
-#### Myself sanyam swami, and i am a 3rd computer science engineering student. This is the place, where i put opensource and cool stuff.
+#### Myself sanyam swami, and i am a 3rd computer science engineering student. This is the place, where i put opensource project and cool stuff.
 * 🌱 I’m currently learning AI, and android.
 <!--
 **SanyamSwami123/SanyamSwami123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
