@@ -1,4 +1,4 @@
-### Hi there 👋
+
 #### Myself sanyam swami, and i am a 3rd computer science engineering student. This is the place, where i put opensource project and cool stuff.
 * 🌱 I’m currently learning AI, and android.
 <!--
