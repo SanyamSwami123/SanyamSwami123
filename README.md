@@ -1,5 +1,6 @@
 ### Namaste <img src="https://media.giphy.com/media/UrbB6EeWFB7rQbHg8w/giphy.gif" width="40" height="40"/>
-#### Myself sanyam swami...currently in a 3rd year persuing B.E in computer science. This is the place, where i put opensource project and cool stuff.
+#### I am sanyam swami, 3rd year (B.E computer science) student.  
+#### This is the place, where i put opensource project and cool stuff.
 * 🌱 I’m currently learning AI, and android.
 <!--
 **SanyamSwami123/SanyamSwami123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
