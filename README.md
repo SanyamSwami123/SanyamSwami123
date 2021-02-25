@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning AI & ml, and android.
 - 🔭 I’m currently working on deep learning.
 - ⚡ Fun fact: I :+1: :bouncing_ball_person: :basketball:
+*****************************************************************************************************
 
 <!-- #### connect with me on these platforms: -->
 <!-- <a href="https://twitter.com/sanyamswami"><img src="https://github.com/SanyamSwami123/SanyamSwami123/blob/master/Images/twitter.jpg" alt="drawing" width="40"/> -->
