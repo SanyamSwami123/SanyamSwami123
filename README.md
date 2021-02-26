@@ -1,4 +1,5 @@
 <!----### Namaste <img src="https://media.giphy.com/media/UrbB6EeWFB7rQbHg8w/giphy.gif" width="40" height="40"/>---->
+*****************************************************************************************************
 #### I am sanyam swami, 3rd year (B.E computer science) student. This is the place, where i put opensource project and cool stuff, have immense curiosity of learning new technology and working on it 😄.
 - 🌱 I’m currently learning AI & ml, and android.
 - 🔭 I’m currently working on deep learning.
