@@ -3,9 +3,11 @@
 
 With a dynamic journey in the tech realm, I've passionately navigated through innovative landscapes. From early days of curiosity to honing expertise, my tech odyssey has been a thrilling adventure. I am currently immersed in Machine Learing, Deep Learning, MLOps. I am committed to leveraging cutting-edge solutions to make a positive impact.
 
-⚡ Fun fact:
-<!--- Whether I'm debugging a program or refining a recipe, each venture is a journey of creativity and discovery. Because, let's face it, the best code often comes with a side of good food! my dual passions keep life both savory and exciting!-->
-- Whether it's coding algorithms or shooting hoops, precision is the name of the game. 🚀
+<!--⚡ Fun fact:-->
+
+<!--<!--- Whether I'm debugging a program or refining a recipe, each venture is a journey of creativity and discovery. Because, let's face it, the best code often comes with a side of good food! my dual passions keep life both savory and exciting!-->
+
+<!-- - Whether it's coding algorithms or shooting hoops, precision is the name of the game. 🚀-->
 <!-- ### Namaste <img src="https://media.giphy.com/media/UrbB6EeWFB7rQbHg8w/giphy.gif" width="40" height="40"/>
 *****************************************************************************************************
 #### I am sanyam swami, 3rd year (B.E computer science) student. 
