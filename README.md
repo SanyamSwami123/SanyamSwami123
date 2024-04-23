@@ -3,6 +3,11 @@
 
 With a dynamic journey in the tech realm, I've passionately navigated through innovative landscapes. From early days of curiosity to honing expertise, my tech odyssey has been a thrilling adventure. I am currently immersed in Machine Learing, Deep Learning, MLOps. I am committed to leveraging cutting-edge solutions to make a positive impact.
 
+<!--## language and tools:
+<img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
+
+<img align="left" alt="MySQL" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" style="padding-right:10px;" />
+-->
 <!--⚡ Fun fact:-->
 
 <!--<!--- Whether I'm debugging a program or refining a recipe, each venture is a journey of creativity and discovery. Because, let's face it, the best code often comes with a side of good food! my dual passions keep life both savory and exciting!-->
