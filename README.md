@@ -3,6 +3,8 @@
 
 With a dynamic journey in the tech realm, I've passionately navigated through innovative landscapes. From early days of curiosity to honing expertise, my tech odyssey has been a thrilling adventure. I am currently immersed in Machine Learing, Deep Learning, MLOps. I am committed to leveraging cutting-edge solutions to make a positive impact.
 
+### Explore AI-Generated Faces
+👤 [click here](https://thispersondoesnotexist.com/) to discover intriguing AI-generated faces that look remarkably real!
 <!--## language and tools:
 <img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
 
