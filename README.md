@@ -6,8 +6,7 @@ With a dynamic journey in the tech realm, I've passionately navigated through in
 
 - 👤 **AI-Generated Faces,** [click here](https://thispersondoesnotexist.com/) to discover intriguing AI-generated faces that look remarkably real!
 - 🗞️ handpicked selection of must-reads articles [See All](https://github.com/SanyamSwami123/ReadingList_LearningResources).
-
-
+- 🤖 Waiting for **AGI**, the ultimate convergence of human-like cognition and cutting-edge technology. 🧠
 
 
 <!--## language and tools:
