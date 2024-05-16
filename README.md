@@ -15,7 +15,6 @@ With a dynamic journey in the tech realm, I've passionately navigated through in
 <img align="left" alt="MySQL" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" style="padding-right:10px;" />
 -->
 
-<!-- - Whether it's coding algorithms or shooting hoops, precision is the name of the game. 🚀-->
 <!-- ### Namaste <img src="https://media.giphy.com/media/UrbB6EeWFB7rQbHg8w/giphy.gif" width="40" height="40"/>
 *****************************************************************************************************
 #### I am sanyam swami, 3rd year (B.E computer science) student. 
