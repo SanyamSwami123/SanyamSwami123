@@ -14,9 +14,6 @@ With a dynamic journey in the tech realm, I've passionately navigated through in
 
 <img align="left" alt="MySQL" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" style="padding-right:10px;" />
 -->
-<!--⚡ Fun fact:-->
-
-<!--<!--- Whether I'm debugging a program or refining a recipe, each venture is a journey of creativity and discovery. Because, let's face it, the best code often comes with a side of good food! my dual passions keep life both savory and exciting!-->
 
 <!-- - Whether it's coding algorithms or shooting hoops, precision is the name of the game. 🚀-->
 <!-- ### Namaste <img src="https://media.giphy.com/media/UrbB6EeWFB7rQbHg8w/giphy.gif" width="40" height="40"/>
