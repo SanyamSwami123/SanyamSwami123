@@ -21,7 +21,7 @@ With a dynamic journey in the tech realm, I've passionately navigated through in
 This is the place, where i put opensource project and cool stuff, have immense curiosity of learning new technology and working on it 😄.
 - 🌱 I’m currently learning AI & ml, and android.
 - 🔭 I’m currently working on deep learning.
-- ⚡ Fun fact: I :+1: :bouncing_ball_person: :basketball:
+
 *****************************************************************************************************
  -->
 <!-- #### connect with me on these platforms: -->
