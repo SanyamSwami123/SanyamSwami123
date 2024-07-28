@@ -7,7 +7,7 @@ With a dynamic journey in the tech realm, I've passionately navigated through in
 - 👤 **AI-Generated Faces,** [click here](https://thispersondoesnotexist.com/) to discover intriguing AI-generated faces that look remarkably real!
 - 🗞️ handpicked selection of must-reads articles [See All](https://github.com/SanyamSwami123/ReadingList_LearningResources).
 - 🤖 Waiting for **AGI**, the ultimate convergence of human-like cognition and cutting-edge technology. 🧠
-
+- 🧠 [PAPER](https://arxiv.org/pdf/1706.03762), introduces transformer model that underpins GPT's architecture. 
 
 <!--## language and tools:
 <img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
