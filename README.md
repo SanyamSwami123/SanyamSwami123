@@ -25,7 +25,6 @@ This is the place, where i put opensource project and cool stuff, have immense c
 *****************************************************************************************************
  -->
 <!-- #### connect with me on these platforms: -->
-<!-- <a href="https://twitter.com/sanyamswami"><img src="https://github.com/SanyamSwami123/SanyamSwami123/blob/master/Images/twitter.jpg" alt="drawing" width="40"/> -->
 <!--  <a href="https://stackoverflow.com/users/12067671/sanyam?tab=profile"><img src="https://github.com/SanyamSwami123/SanyamSwami123/blob/master/Images/stackoverflow.png" alt="drawing" width="100"/> -->
 
 
